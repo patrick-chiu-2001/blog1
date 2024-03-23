@@ -9,8 +9,8 @@ _Updated: 2023-05-12_
 
 Radial graphs can be used to visualize cyclical and seasonal changes, and trends over time. Images 1 and 2 show the results for Covid-19 cases and deaths in the U.S. from January 2020 to March 2023. Note different scales are used (square root for cases and linear for deaths).
 
-![Image](/assets/images/covid-19/radial-line-chart_cases-pcap_end-20230310_2204v2.png "Image 1")
-![Image](/assets/images/covid-19/radial-line-chart_deaths-pcap_end-20230310_2204v2.png "Image 2")  
+![Image 1](/blog1/assets/images/covid-19/radial-line-chart_cases-pcap_end-20230310_2204v2.png)
+![Image 2](/assets/images/covid-19/radial-line-chart_deaths-pcap_end-20230310_2204v2.png)  
 Image 1-2: Data Sources [1].
 
 ## Data Sources
