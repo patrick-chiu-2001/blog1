@@ -11,9 +11,9 @@ More economically developed countries with higher Gross Domestic Product (GDP) p
 
 Traditional least squares regression with uncertainty bands (see [3]) is shown in Image 1.  The inner bands, displayed as dash lines with longer dashes, are the confidence bands (based on the standard error). The outer bands are the prediction bands (based on +/- 2 standard deviations).
 
-Bayesian inference is used to perform the regression (see [4]) shown in Image 2. This enables visualization of the posterior uncertainty of the regression line (shown by the gray lines in the plot). Since the uncertainty lines are tight around the regression line, and these have positive slopes away from zero, it suggests that there is a high probability of an association between GDP and CO2 emissions.
+Bayesian inference is used to perform the regression (see [4]) shown in Image 2. This enables visualization of the posterior uncertainty of the regression line (shown by the gray lines in the plot). The uncertainty lines are tight around the regression line and have slopes away from zero, suggesting that there is a high probability of an association between GDP per capita and CO2 emissions.
 
-The scales in these plots are log-log, and the result can be interpreted as for each 1% increase in GDP, the predicted increase in CO2 emissions is 0.63%.
+With the plots in log-log scales, the result can be interpreted as for each 1% increase in GDP, the predicted increase in CO2 emissions is 0.63%.
 
 Since a number of developing countries have large populations (although birthrates may fall as a country becomes more wealthy), economic development in a sustainable way will be important to meet climate targets.
 
